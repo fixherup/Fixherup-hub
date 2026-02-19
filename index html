@@ -1,2 +1,10 @@
 <!DOCTYPE html>
-<html><head><title>Fixer Up</title></head>
+<html>
+  <head>
+    <title>Fixer Up</title>
+  </head>
+  <body>
+    <h1>Welcome to Fixer Up Hub</h1>
+    <p>This is your main page where you can showcase your vehicle projects and share with others!</p>
+  </body>
+</html>
